@@ -1,0 +1,14 @@
+Data types
+logic statements
+loops
+functions
+DOM
+OPP
+Built-in functions
+
+Methods
+Properties
+
+
+A method is on an object.
+A function is independent of an object.
